@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0bcc659-94f1-4419-bc6d-04996fbfaf42" name="Changes" comment="Ejercicio terminado">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ejercicioTemaDos/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ejercicioTemaTres/EstructurasDeControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ejercicio1-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Resolucion-Ejercicios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ejercicioTemaUno/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ejercicioTemaDos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ejercicioTemaDos/Funciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +35,28 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/valem/CursosProgramacion/JAVA/OpenBootcamp/JAVA-Basico",
+    "last_opened_file_path": "C:/Users/valem/CursosProgramacion/JAVA/OpenBootcamp/JAVA-Basico/ResolucionEjercicios/java_basico/sesiones_1_2_3",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicioTemaUno.Main" />
+  <component name="RunManager" selected="Application.EstructurasDeControl">
+    <configuration name="EstructurasDeControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicioTemaTres.EstructurasDeControl" />
+      <module name="Resolucion-Ejercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejercicioTemaTres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicioTemaDos.Funciones" />
       <module name="Resolucion-Ejercicios" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.ejercicioTemaDos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicioTemaDos.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicioTemaUno.Main" />
       <module name="Resolucion-Ejercicios" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +96,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EstructurasDeControl" />
+        <item itemvalue="Application.Funciones" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.com.ejercicioTemaDos.Main" />
       </list>
     </recent_temporary>
   </component>
