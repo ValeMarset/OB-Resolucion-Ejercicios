@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         SmartDevice reloj2 = new SmartWatch();
+
         SmartDevice celular2 = new SmartPhone();
 
        SmartWatch reloj = new SmartWatch();
