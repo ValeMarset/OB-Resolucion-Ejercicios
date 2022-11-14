@@ -43,13 +43,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="EstructurasDeControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicioTemaTres.EstructurasDeControl" />
+  <component name="RunManager" selected="Application.com.ejercicioEntradaSalidaTemaOcho.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicioManejoDeErroresTemaSiete.Main" />
       <module name="Resolucion-Ejercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ejercicioTemaTres.*" />
+          <option name="PATTERN" value="com.ejercicioManejoDeErroresTemaSiete.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicioManejoDeErroresTemaSiete.Main" />
+    <configuration name="com.ejercicioEntradaSalidaTemaOcho.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicioEntradaSalidaTemaOcho.Main" />
       <module name="Resolucion-Ejercicios" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ejercicioManejoDeErroresTemaSiete.*" />
+          <option name="PATTERN" value="com.ejercicioEntradaSalidaTemaOcho.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ejercicioEntradaSalidaTemaOcho.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.com.ejerciciosTiposDeDatosAvanzadosTemaSeis.Main" />
         <item itemvalue="Application.com.ejerciciosTemaCinco.Main" />
         <item itemvalue="Application.com.ejerciciosTemaCuatro.Main" />
-        <item itemvalue="Application.EstructurasDeControl" />
       </list>
     </recent_temporary>
   </component>
